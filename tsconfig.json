@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "skipLibCheck": true,
+    "jsxImportSource": true,
     "target": "esnext",
     "useDefineForClassFields": true,
     "module": "esnext",
