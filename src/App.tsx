@@ -9,6 +9,8 @@ export const App = defineComponent({
         <RouterLink to="/">Foo</RouterLink>
         <br />
         <RouterLink to="/bar">Bar</RouterLink>
+        <br />
+        <RouterLink to="/welcome">Welcome</RouterLink>
         <main>
           <RouterView />
         </main>
